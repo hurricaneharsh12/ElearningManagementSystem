@@ -48,20 +48,6 @@ This project is a Learning Management System (LMS) built with React.js for the f
   - MySQL
   - Seven tables: course, learning, progress, discussion, feedback, question, user, assessment
 
-## Setup
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/PATMESH/Learning-Management-System.git
-    ```
-
-2. Navigate to the frontend and backend folders and follow their respective setup instructions.
-
-3. Run the frontend (React.js) on http://localhost:3000 and the backend (Spring Boot) on http://localhost:8080.
-
-4. Set up the MySQL database and configure the connection.
-
 ## Usage
 
 - Visit the application on http://localhost:3000.
@@ -69,10 +55,6 @@ This project is a Learning Management System (LMS) built with React.js for the f
 - As an admin, you can manage courses, create assessments, and monitor user progress. To access the admin dashboard, if your application is running locally, you can navigate to http://localhost:3000/dashboard.
 
 - Users can register, log in, view courses, take assessments, and receive certificates.
-
-## Contributing
-
-Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback is highly appreciated!
 
 
 ## Site Images
@@ -92,14 +74,8 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 
 
-**Profile:**
-![Screenshot (87)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/707d3fa8-0462-4048-a740-c3f3e225c504)
-![Screenshot (88)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/0d4b22fe-01b0-4176-b03f-8ba780eb0589)
 
 
-
-**Learnings:**
-![Screenshot (89)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/7179e9bd-648d-4534-8495-6403a07e9482)
 
 
 
